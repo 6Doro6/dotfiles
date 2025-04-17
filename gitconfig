@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dorothee@digisix.be
+	name = dorothee six
